@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title><![CDATA[oups]]></title>
+	<author><![CDATA[gcyrillus]]></author>
+	<version>0.2</version>
+	<date>2024-12-12</date>
+	<site>https://pluxopolis.net</site>
+	<description><![CDATA[stocke en session les connexions
+	- fixe un nombre maximal sur une durée (defaut:6))
+	- renvoi un 429 si limite dépassée pendant 10 secondes par défaut.
+	- Nombre et durée configurable. ]]></description>
+	<scope>site</scope>
+</document>
